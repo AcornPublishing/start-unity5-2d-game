@@ -1,0 +1,1 @@
+Chapter 1 doesn't have code files, since it deals with importing sprites and using the Sprite Editor, which doesn't require coding.
